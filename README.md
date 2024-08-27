@@ -1,0 +1,1 @@
+# NUXT_CRUD_APP
